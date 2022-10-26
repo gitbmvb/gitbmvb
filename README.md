@@ -1,14 +1,14 @@
 <!--### Hi there 👋-->
 <h1 align="center">Hello, there! I'm Bruno Martins</h1>
-<h3 align="center">A brazilian Software Engineering Student at University of Brasília</h3>
+<h3 align="center">A brazilian Software Engineering Student at University of Brasília.</h3>
 
-- 🌱 I’m currently learning **Python, Javascript and C++**
+- 🌱 I’m currently learning **Python, Javascript and C++**.
 
-- 📫 How to reach me **bruno.martval@gmail.com**
+- 📫 How to reach me: **bruno.martval@gmail.com**
 
-- 📄 Know about my experiences [I've already built some websites using PHP and Html, but now I'm more interested about backend development.](I've already built some websites using PHP and Html, but now I'm more interested about backend development.)
+- 📄 My experiences: I've already built some websites using PHP, Html, CSS and JS. But now, I'm more interested about backend development and logic.
 
-- ⚡ Fun fact **I love to play the piano and go cycling/skateboarding on the weekends.**
+- ⚡ Fun fact: I love to play the piano and go cycling/skateboarding on the weekends.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
