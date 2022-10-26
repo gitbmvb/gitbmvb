@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **bruno.martval@gmail.com**
 
-- 📄 My experiences: I've already built some websites using PHP, Html, CSS and JS. But now, I'm more interested about backend development and logic.
+- 📄 My experiences: I've already built many websites using PHP, Html, CSS and JS. But now, I'm more interested about backend development and logic.
 
 - ⚡ Fun fact: I love to play the piano and go cycling/skateboarding on the weekends.
 
