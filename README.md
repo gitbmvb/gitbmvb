@@ -2,11 +2,11 @@
 <h1 align="center">Hello, there! I'm Bruno Martins</h1>
 <h3 align="center">A brazilian Software Engineering Student at University of Brasília.</h3>
 
-- 🌱 I’m currently learning **Python, Javascript and C++**.
+- 🌱 I’m currently learning **Python, Javascript, C and C++**.
 
 - 📫 How to reach me: **bruno.martval@gmail.com**
 
-- 📄 My experiences: I've already built many websites using PHP, Html, CSS and JS. But now, I'm more interested about backend development and logic.
+- 📄 My experiences: I've already built many websites using PHP, Html, CSS and JS. But now, I'm more interested about backend development, data science and AI.
 
 - ⚡ Fun fact: I love to play the piano and go cycling/skateboarding on the weekends.
 
