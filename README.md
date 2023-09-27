@@ -1,9 +1,13 @@
 <!--### Hi there 👋-->
-<h1 align="center">Hello, there! I'm Bruno Martins</h1>
-<h3 align="center">A brazilian Software Engineering Student at University of Brasília.</h3>
+<!-- <h1 align="center">hey, wassup :)</h1> -->
+<!-- <h3 align="center">A brazilian Software Engineering Student at University of Brasília.</h3> -->
 
 # 💫 About Me:
-🔭 **I’m currently working** on a university project about software architecture/design.<br>👯 **I’m looking to collaborate** on open source software or internships.<br>🤝 **I’m looking for help with** algorithms. I like to understand algorithm and data structures from a mathematical perspective.<br>🌱 **I’m currently learning** several programming languages, such as python, C, C++, javascript and typescript. I'm also learning about algorithm design, software architecture, software testing, computer organization (Assembly MIPS), number theory.<br>⚡ **Interested in** computer science, software engineering, algorithms and optimization, data structures, compilers, machine learning, AI, math (calculus, linear algebra, number theory, statistics).
+- 🔭 **I’m currently working** on a university project about software architecture/design.
+- 👯 **I’m looking to collaborate** on open source software or internships.
+- 🤝 **I’m looking for help with** algorithms. I like to understand algorithm and data structures from a mathematical perspective.
+- 🌱 **I’m currently learning** several programming languages, such as python, C, C++, javascript and typescript. I'm also learning about algorithm design, software architecture, software testing, computer organization (Assembly MIPS), number theory.
+- ⚡ **Interested in** computer science, software engineering, algorithms and optimization, data structures, compilers, machine learning, AI, math (calculus, linear algebra, number theory, statistics).
 
 
 ## 🌐 Socials:
